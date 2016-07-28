@@ -29,7 +29,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import com.byron.share.Injection;
-import com.example.android.architecture.blueprints.todoapp.R;
+import com.byron.share.R;
 import com.byron.share.statistics.StatisticsActivity;
 import com.byron.share.util.ActivityUtils;
 import com.byron.share.util.EspressoIdlingResource;
